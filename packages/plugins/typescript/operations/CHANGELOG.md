@@ -1,5 +1,13 @@
 # @graphql-codegen/typescript-operations
 
+## 1.17.13
+
+### Patch Changes
+
+- 02b84185: Support for input lists coercion
+- Updated dependencies [02b84185]
+  - @graphql-codegen/visitor-plugin-common@1.17.22
+
 ## 1.17.12
 
 ### Patch Changes
